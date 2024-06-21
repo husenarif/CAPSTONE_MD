@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SPOONFUL</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="analyze">Analisis</string>
+    <string name="title_search">Search</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_food">Food</string>
+    <string name="title_profil">Profil</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="food">Food</string>
+    <string name="restourant">Restaurant</string>
+    <string name="alamat">Lokasi</string>
+    <string name="no_telp">Telephone</string>
+    <string name="searchbar_hint">Search Food</string>
+    <string name="viewpager">Viewpager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- Goals of using the app -->
+    <string-array name="goals_array">
+        <item>Maintaining Weight</item>
+        <item>Diet</item>
+        <item>Bulking</item>
+    </string-array>
+
+    <!-- Food preference -->
+    <string-array name="food_preference_array">
+        <item>Low Fat</item>
+        <item>High Protein</item>
+        <item>Low Sugar</item>
+    </string-array>
+
+    <!-- Weight -->
+    <string-array name="weight_array">
+        <item>50-55 kg</item>
+        <item>60-65 kg</item>
+        <item>70-75 kg</item>
+        <item>80-85 kg</item>
+        <item>90-95 kg</item>
+        <item>More than 100 kg</item>
+    </string-array>
+
+    <!-- Age -->
+    <string-array name="age_array">
+        <item>18-19</item>
+        <item>20-21</item>
+        <item>22-23</item>
+        <item>24-25</item>
+        <item>26-27</item>
+        <item>28-29</item>
+        <item>30-31</item>
+        <item>32-33</item>
+        <item>34-35</item>
+        <item>36-37</item>
+        <item>38-39</item>
+        <item>40-41</item>
+        <item>42-43</item>
+        <item>More than 50</item>
+    </string-array>
+
+    <!-- Daily Meals -->
+    <string-array name="daily_meals_array">
+        <item>Whole Grains</item>
+        <item>Seeds</item>
+        <item>Fast Food</item>
+        <item>Junk Food</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Dairy</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Vegan</item>
+        <item>Vegetarian</item>
+        <item>Low Carb</item>
+        <item>High Protein</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

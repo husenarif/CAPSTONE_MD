@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+        <!-- Base application theme -->
+        <style name="Theme.Capstone" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+            <!-- Customize your theme here -->
+            <item name="colorPrimary">@color/SPOONFUL</item>
+            <item name="colorPrimaryVariant">@color/primary_color</item>
+            <item name="colorOnPrimary">@color/white</item>
+            <item name="colorSecondary">@color/tosca</item>
+            <item name="colorSecondaryVariant">@color/dark_blue_500</item>
+            <item name="colorOnSecondary">@color/black</item>
+            <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+            <item name="android:navigationBarColor" tools:targetApi="l">@android:color/transparent</item>
+        </style>
+    </resources>

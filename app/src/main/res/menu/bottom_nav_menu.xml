@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"
+        tools:layout="@layout/fragment_home"/>
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="@string/title_search"
+        tools:layout="@layout/fragment_search"/>
+
+    <item
+        android:id="@+id/navigation_scan"
+        android:icon="@drawable/baseline_document_scanner_24"
+        android:title="@string/title_scan"
+        tools:layout="@layout/fragment_scan"
+        />
+    <item
+        android:id="@+id/navigation_food"
+        android:icon="@drawable/baseline_restaurant_menu_24"
+        android:title="@string/title_food"
+        tools:layout="@layout/fragment_food" />
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:title="@string/title_profil"
+        tools:layout="@layout/fragment_profil" />
+
+
+</menu>
